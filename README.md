@@ -1,4 +1,4 @@
-# bpm (Bazel package manager)
+# Bazel Packages
 
 This repository will host [Bazel](https://bazel.build) configuration files for
 open source libraries.
